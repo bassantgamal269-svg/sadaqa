@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bassantgamal269-svg.github.io/sadaqa/sitemap.xml
